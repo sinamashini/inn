@@ -1,4 +1,4 @@
-after cloning project for the first time you should install packages which is provided by package.json so use this command => ```sh npm install ```
+after cloning the project for the first time you should install packages which is provided by package.json so use this command => ```sh npm install ```
 
 for starting the project use this command => 
 ```sh npm run start ``` 
