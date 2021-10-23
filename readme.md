@@ -7,4 +7,4 @@ or
 
 For seeing the config of routes of api please visit src/server.js => you will realize api route will be => /v1/api
 
-The codes of api is available in src/api/routes
+The codes of api are available in src/api/routes
